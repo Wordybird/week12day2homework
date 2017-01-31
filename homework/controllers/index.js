@@ -13,7 +13,7 @@ router.get('/about', function(req, res){
 })
 
 router.post('/', function(req, res) {
-  res.json({})
+  res.json({});
 })
 
 module.exports = router;
