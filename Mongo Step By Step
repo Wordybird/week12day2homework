@@ -1,0 +1,7 @@
+1. mongod in one tab
+2. mongo in another
+3. separate tab
+4. use database name here; in mongo tab
+db.databasename.insert({key: "value", key: "value"});
+db.databasename.find();
+db.dropDatabase();
